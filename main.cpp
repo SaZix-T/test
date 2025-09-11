@@ -1,8 +1,12 @@
 #include <iostream>
 
-int main(int argc, char* argv[])
+int main(int argc, char** argv)
 {
-	std::cout << "Hello, world!\n";
+	if(argc >= 2)
+	{
+		std::cout << "Hello, " << argc[1] << std::endl;
+	}
+	else std::cout << "Hello, world!\n";
 	
 	return 0;
 }
