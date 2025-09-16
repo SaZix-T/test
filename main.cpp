@@ -8,6 +8,8 @@ int main(int argc, char** argv)
 	std::cout << "Some changes" << std::endl;
 	std::cout << "I add this text" << std::endl;
 	std::cout << "Bla bla bla" << std::endl;
+
+	std::cout << "Test for .gitignore" << std::endl;
 	
 	return 0;
 }
