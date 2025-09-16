@@ -1,3 +1,0 @@
-/Users/sazix/test/build/CMakeFiles/app.dir
-/Users/sazix/test/build/CMakeFiles/edit_cache.dir
-/Users/sazix/test/build/CMakeFiles/rebuild_cache.dir
