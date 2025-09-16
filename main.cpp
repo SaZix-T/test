@@ -7,5 +7,7 @@ int main(int argc, char** argv)
 	std::cout << "This is the main brach" << std::endl;
 	std::cout << "Some changes" << std::endl;
 	std::cout << "I add this text" << std::endl;
+	std::cout << "Bla bla bla" << std::endl;
+	
 	return 0;
 }
